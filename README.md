@@ -1,0 +1,1 @@
+﻿This repository contains the solutions to Hamoye Stage E Quiz on Univariate and Multivariate Time Series Forcasting using Facebook Prophet and other Models. The link for the dataset is https://github.com/HamoyeHQ/HDSC-Time-series-analysis-and-forecast/files/7768846/Time_series_analysis_and_forecast_DATASET.csv
